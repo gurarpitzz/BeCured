@@ -1,0 +1,29 @@
+
+
+Important Instructions: Running app.py and Downloading Required Folders
+
+Dear User,
+
+To successfully run the app.py file and ensure the proper functioning of the application, it is imperative to download the static and template folders from our Google Drive repository. These folders contain essential resources and templates necessary for the application's operation and user interface.
+
+Please follow these steps carefully:
+
+Access Google Drive Repository:
+Visit "https://drive.google.com/drive/folders/1IFWvak1a3zNPHZ9qBs8rBFrAu91_M2fe?usp=sharing" and log in with your credentials.
+Locate the Folders:
+Once logged in, navigate to the designated folder for our application. This folder should contain the static and template folders.
+Download Folders:
+Select the static and template folders by clicking on them.
+Right-click on the selected folders and choose the "Download" option from the context menu.
+Wait for the download to complete. Ensure that both folders are successfully saved to your local machine.
+Integration with app.py:
+Place the downloaded static and template folders in the same directory as the app.py file.
+Ensure that the folder structure remains intact, as the application relies on specific paths to access resources.
+Run app.py:
+With the necessary folders in place, you can now run the app.py file using your preferred Python environment.
+Follow any additional instructions provided within the application's documentation or user guide.
+Should you encounter any difficulties or require further assistance, please don't hesitate to reach out to our support team for prompt assistance.
+
+Thank you for your attention to these instructions. We appreciate your cooperation in ensuring the smooth operation of our application.
+
+Best regards
